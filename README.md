@@ -10,10 +10,9 @@
 
 **Slides**
 
-- [GraphQL at Scale](https://slides.com/moonhighway/scale-cube/)
-- [Apollo Federation Lab Challenge](https://slides.com/moonhighway/federation-lab)
+- [Apollo Federation](https://slides.com/moonhighway/apollo-federation/)
 
-**Samples**
+**Federation Projects**
 
 - [Hue Review: Start Files](https://github.com/graphqlworkshop/hue-review-activity)
 - [Hue Review: Finished Files](https://github.com/graphqlworkshop/hue-review-activity/tree/complete)
