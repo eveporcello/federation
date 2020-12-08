@@ -14,6 +14,7 @@
 
 **Federation Projects**
 
+- [Acquisition API](https://github.com/eveporcello/acquisitions-api)
 - [Hue Review: Start Files](https://github.com/graphqlworkshop/hue-review-activity)
 - [Hue Review: Finished Files](https://github.com/graphqlworkshop/hue-review-activity/tree/complete)
 - [Snowtooth Federation Lab: Start Files](https://github.com/graphqlworkshop/snowtooth-federation-lab)
